@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/pokega-framework/Ads/AdsControl.cs">
+    <Files>
+      <File FileName="Assets/Scripts/pokega-framework/Social/Facebook/FacebookChallengeFriend.cs" Line="4" Column="1" />
+      <File FileName="Assets/Scripts/pokega-framework/SaveAndLoad/LocalDBControl.cs" Line="7" Column="1" />
+      <File FileName="Assets/Scripts/pokega-framework/Ads/AdsControl.cs" Line="52" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

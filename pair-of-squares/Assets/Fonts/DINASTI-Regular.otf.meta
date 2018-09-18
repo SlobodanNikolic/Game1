@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7a63fc359ee47294c889a3dd89b81580
+timeCreated: 1481122128
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - DINASTI
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1850fc9b84ecdb4479d6ade25006d4c2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
